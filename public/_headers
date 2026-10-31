@@ -1,0 +1,5 @@
+# Images (icons, share image) change rarely; og.png is also ?v= stamped.
+/*.png
+  Cache-Control: public, max-age=2592000
+/*.svg
+  Cache-Control: public, max-age=2592000
