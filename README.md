@@ -1,7 +1,7 @@
 # heirloom
 
 Marketing landing page for **Heirloom**, the family-photo restoration studio
-(`~/Projects/personal/upscale-photos`). Target URL: **heirloom.sankhacooray.com**, served by a
+(`~/Projects/personal/heirloom-studio (repo bsc2fast/heirloom-studio)`). Target URL: **heirloom.sankhacooray.com**, served by a
 Cloudflare Worker (static assets only), the same setup as `aimeter` and `cook`.
 
 No source / GitHub link on the page: the studio is headed for Cloud Run behind a login gate.

@@ -1,7 +1,7 @@
 # heirloom
 
 Landing page for **Heirloom** (heirloom.sankhacooray.com), the photo-restoration studio whose
-code lives in `~/Projects/personal/upscale-photos`. See README.md for files, share-image
+code lives in `~/Projects/personal/heirloom-studio (repo bsc2fast/heirloom-studio)`. See README.md for files, share-image
 rendering and deploy (`CLOUDFLARE_ACCOUNT_ID=9a1da48a0f61e7cebcba39517856d87e npx wrangler deploy`).
 
 - No link to the studio's source or GitHub on this page: the studio ships to Cloud Run behind a
